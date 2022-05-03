@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andrienko_Lab8_Task3", "Andrienko_Lab8_Task3\Andrienko_Lab8_Task3.csproj", "{28A10E0B-FA47-40E5-993B-F28AB53E8DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andrienko_Lab8_Task3.Tests", "Andrienko_Lab8_Task3.Tests\Andrienko_Lab8_Task3.Tests.csproj", "{CE84D912-B80E-4CDA-92F4-20982DE96EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A10E0B-FA47-40E5-993B-F28AB53E8DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A10E0B-FA47-40E5-993B-F28AB53E8DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A10E0B-FA47-40E5-993B-F28AB53E8DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A10E0B-FA47-40E5-993B-F28AB53E8DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE84D912-B80E-4CDA-92F4-20982DE96EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE84D912-B80E-4CDA-92F4-20982DE96EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE84D912-B80E-4CDA-92F4-20982DE96EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE84D912-B80E-4CDA-92F4-20982DE96EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A150776F-8D75-405B-B4D5-C04D36C92A55}
+	EndGlobalSection
+EndGlobal

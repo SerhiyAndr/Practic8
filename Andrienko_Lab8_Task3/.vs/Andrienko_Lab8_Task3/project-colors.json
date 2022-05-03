@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28a10e0b-fa47-40e5-993b-f28ab53e8da0": {
+      "ProjectGuid": "28a10e0b-fa47-40e5-993b-f28ab53e8da0",
+      "DisplayName": "Andrienko_Lab8_Task3",
+      "ColorIndex": 0
+    },
+    "bb282b97-3441-49db-9e8f-36a21ed959b1": {
+      "ProjectGuid": "bb282b97-3441-49db-9e8f-36a21ed959b1",
+      "DisplayName": "Lab8_4Task",
+      "ColorIndex": 1
+    },
+    "ce84d912-b80e-4cda-92f4-20982de96eb7": {
+      "ProjectGuid": "ce84d912-b80e-4cda-92f4-20982de96eb7",
+      "DisplayName": "Andrienko_Lab8_Task3.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
